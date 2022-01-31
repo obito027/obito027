@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Krishna Sharma and my github handle is @obito027.
+- 👋 Hi, I’m Krishna Sharma and I'm a graphic designer & android developer.
 - 👀 I’m interested in coding, website designing & development, app development & graphic designing.
 - 🌱 I’m currently learning python and c++.
 - 💞️ I’m looking to collaborate with some new peoples (dev) to create some great projects.
